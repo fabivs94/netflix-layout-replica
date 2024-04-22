@@ -29,7 +29,7 @@ aside {
   flex-direction: column;
   justify-content: space-evenly;
   border-right: 1px solid rgb(49, 46, 46);
-  padding-left: 10px;
+  padding-left: 25%;
   width: 100%;
   height: 100%;
   color: white;
@@ -38,7 +38,7 @@ aside {
 
 header {
   grid-area: header;
-  padding-left: 2px;
+  padding-left: 2%;
   display: flex;
   background-image: url(https://i.ibb.co/y4Hf2ZB/maxresdefault-1.jpg);
   height: auto;
@@ -46,18 +46,18 @@ header {
 }
 
 .series-description {
-  margin-top: 140px;
-  margin-right: 850px;
+  margin-top: 10%;
+  margin-right: 71%;
 }
 
 .logo-title {
-  padding-left: 5%;
+  margin-left: 1%;
   color: white;
   background-color: black;
 }
 
 h1 {
-  padding-left: 6%;
+  margin-left: 1%;
   color: white;
   font-size: 250%;
   background-color: black;
@@ -68,7 +68,6 @@ h1 {
 }
 
 .various {
-  padding-left: 1%;
   display: flex;
   justify-content: space-evenly;
   color: rgb(255, 255, 255);
@@ -101,15 +100,15 @@ h1 {
 p {
   background-color: black;
   padding-top: 5%;
-  padding-left: 6%;
+  margin-left: 1%;
   color: rgb(156, 156, 156);
   font-weight: bold;
 }
 
 main {
   grid-area: main;
-  margin-top: 20px;
-  margin-left: 20px;
+  margin-top: 1%;
+  margin-left: 1%;
   height: auto;
   width: 99%;
   color: white;
@@ -117,13 +116,13 @@ main {
 }
 
 h2 {
-  padding-left: 15px;
+  padding-left: 1%;
 }
 
 .toppicks {
   display: flex;
   justify-content: space-evenly;
-  margin-top: 20px;
+  margin-top: 2%;
 }
 
 .upcoming {
@@ -135,8 +134,8 @@ footer {
   padding-left: 10px;
   height: 100%;
   width: 99%;
-  margin-bottom: 30px;
-  margin-left: 30px;
+  margin-bottom: 3%;
+  margin-left: 2%;
   display: flex;
   justify-content: flex-end;
   background-color: black;
